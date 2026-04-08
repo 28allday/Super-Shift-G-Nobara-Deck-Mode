@@ -3,7 +3,7 @@
 Install video 
 
 <p align="center">
-  <a href="https://youtu.be/x4Amx2xlyUw">
+  <a href="https://youtu.be/eOIPbEgEClc">
     <img src="https://img.youtube.com/vi/x4Amx2xlyUw/0.jpg" width="700">
   </a>
 </p>
