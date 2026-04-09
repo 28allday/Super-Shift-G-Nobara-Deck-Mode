@@ -1,4 +1,4 @@
-# Super Shift G - Nobara Deck Mode
+# Super Alt G - Nobara Deck Mode
 
 Install video 
 
