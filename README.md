@@ -33,12 +33,12 @@ Switching between modes is seamless — plasmalogin handles session transitions,
   - Intel-only systems are **not supported**
   - Intel iGPU + AMD/NVIDIA dGPU configurations work fine
 
-> **Note**: This script is designed specifically for Nobara and its stack (KDE Plasma, plasmalogin, PipeWire). It uses `dnf` for package management and builds Gamescope from source as it is not available in Fedora repos. It is not intended for Arch-based distributions — see [Super-Shift-S-Omarchy-Deck-Mode](https://git.no-signal.uk/nosignal/Super-Shift-S-Omarchy-Deck-Mode) for Omarchy/Arch.
+> **Note**: This script is designed specifically for Nobara and its stack (KDE Plasma, plasmalogin, PipeWire). It uses `dnf` for package management and builds Gamescope from source as it is not available in Fedora repos. It is not intended for Arch-based distributions — see [Super-Shift-S-Omarchy-Deck-Mode](https://github.com/28allday/Super-Shift-S-Omarchy-Deck-Mode) for Omarchy/Arch.
 
 ## Quick Start
 
 ```bash
-git clone https://git.no-signal.uk/nosignal/Super-Shift-G-Nobara-Deck-Mode.git
+git clone https://github.com/28allday/Super-Shift-G-Nobara-Deck-Mode.git
 cd Super-Shift-G-Nobara-Deck-Mode
 chmod +x super_shift_g_nobara.sh
 ./super_shift_g_nobara.sh
